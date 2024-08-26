@@ -14,3 +14,7 @@
 
 ### Non 1st Authors
 [Paper I - Relating individual motion sickness levels to subjective discomfort ratings](https://raw.githubusercontent.com/varunkotian/Papers/main/Completed/2022__deWinkel_Irmak_Kotian_Pool_Happee__EBR__Relating%20individual%20motion%20sickness%20levels%20to%20subjective%20discomfort%20ratings.pdf)
+
+[Paper II - A novel experiment to unravel fundamental questions about postural stability and motion comfort in automated vehicles](https://raw.githubusercontent.com/varunkotian/Papers/main/Completed/2023_Papaioannou_Cvetkovic_Messiou_Kotian_Shyrokau_Happee_A%20novel%20experiment%20to%20unravel%20fundamental%20questions%20about%20postural%20stability%20and%20motion%20comfort%20in%20automated%20vehicles.pdf)
+
+[Paper III - Neck stabilization through sensory integration of vestibular and visual motion cues](https://raw.githubusercontent.com/varunkotian/Papers/main/Completed/2023_Happee_Kotian_deWinkel_Neck%20stabilization%20through%20sensory%20integration%20of%20vestibular%20and%20visual%20motion%20cues.pdf)
