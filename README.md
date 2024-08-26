@@ -14,7 +14,7 @@ Irmak, T., Kotian, V., Happee, R., de Winkel, K. N., & Pool, D. M. (2022)
 *Experimental Brain Research* \
 Kotian, V., Irmak, T., Pool, D., & Happee, R. (2024)
 
-[Paper 3A - Modelling_individual_motion_sickness_accumulation_in_vehicles_and_driving_simulators](https://raw.githubusercontent.com/varunkotian/Papers/main/Completed/2023__Kotian_Pool_Happee__DSC__Modelling_individual_motion_sickness_accumulation_in_vehicles_and_driving_simulators.pdf) \
+[Paper 3A - Modelling individual motion sickness accumulation in vehicles and driving simulators](https://raw.githubusercontent.com/varunkotian/Papers/main/Completed/2023__Kotian_Pool_Happee__DSC__Modelling_individual_motion_sickness_accumulation_in_vehicles_and_driving_simulators.pdf) \
 *Proceedings of the Driving Simulation Conference* \
 Kotian, V., Pool, D. M., & Happee, R. (2023).
 
